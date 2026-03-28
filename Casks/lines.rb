@@ -1,6 +1,6 @@
 cask "lines" do
-  version "0.2.3"
-  sha256 "7ab5b30d53a1f6da7a10ffb2d9e265da55faa2f6fa310c08eb109e91f705c665"
+  version "0.2.5"
+  sha256 "451f3b29e3b00fc17356cf68435a6a9c97534d123923fb70fe755e398612f395"
 
   url "https://github.com/whaleen/lines/releases/download/v#{version}/lines_#{version}_universal.dmg"
   name "lines"
