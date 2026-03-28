@@ -1,6 +1,6 @@
 cask "lines" do
-  version "0.1.0"
-  sha256 :no_check # update with actual sha256 after first release
+  version "0.2.2"
+  sha256 "d3e27ed4ac150e8cb5887fccc101ba0c4436114ab60c225908f113be7a0108d4"
 
   url "https://github.com/whaleen/lines/releases/download/v#{version}/lines_#{version}_universal.dmg"
   name "lines"
