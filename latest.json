@@ -1,14 +1,14 @@
 {
-  "version": "0.2.5",
-  "pub_date": "2026-03-28T05:08:26Z",
+  "version": "0.2.6",
+  "pub_date": "2026-03-28T05:23:33Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/whaleen/lines/releases/download/v0.2.5/lines.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbmlXbGYvalpJRkJsWHhCUWNEdDMrMGNkVW1YL2pQdkVwT3lnVG4zNFl1akx6YmxvRGRRMjYvRTdZR0YzaFVKeGFmeFRyOE9BQ0JiOUdHM29pK0NadytUUmhQTm9lT1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0Njc0NTAzCWZpbGU6bGluZXMuYXBwLnRhci5negpLRmJsdGcxbU9qRHpjVDg2QjhVcVZjY2k2cnBOaUQrY1NBTHNkNTdiWmJwNm1NK1pCZGlGWVlXdERPVDVRVFlnWVBJMUtnOHd2NElJR1QrUTdZaHZBQT09Cg=="
+      "url": "https://github.com/whaleen/lines/releases/download/v0.2.6/lines.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbmlXbGYvalpJRkNpekcvc0JsMEd1Q1E2ejIyQVkyN1NabjdsTG4rSks4SHRBZElLanhqc3pDVzdFcHl4TGM3UTRjZmpaOFpZRnFMNmJnZTFMK0ZvQjVSc3BkamlqcVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0Njc1NDEwCWZpbGU6bGluZXMuYXBwLnRhci5negp1Tk5xOVdzV3NmeEp0ZmVMZW1KbG5CWUx4a1VSVkhJN2JsNEdYNVpPaDNSRVZ1SGRDN2UyRmJQY2dKRlFNZXFhN01WWVBka00vTkhtUHUzbGlNdTFDQT09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/whaleen/lines/releases/download/v0.2.5/lines.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbmlXbGYvalpJRkJsWHhCUWNEdDMrMGNkVW1YL2pQdkVwT3lnVG4zNFl1akx6YmxvRGRRMjYvRTdZR0YzaFVKeGFmeFRyOE9BQ0JiOUdHM29pK0NadytUUmhQTm9lT1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0Njc0NTAzCWZpbGU6bGluZXMuYXBwLnRhci5negpLRmJsdGcxbU9qRHpjVDg2QjhVcVZjY2k2cnBOaUQrY1NBTHNkNTdiWmJwNm1NK1pCZGlGWVlXdERPVDVRVFlnWVBJMUtnOHd2NElJR1QrUTdZaHZBQT09Cg=="
+      "url": "https://github.com/whaleen/lines/releases/download/v0.2.6/lines.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbmlXbGYvalpJRkNpekcvc0JsMEd1Q1E2ejIyQVkyN1NabjdsTG4rSks4SHRBZElLanhqc3pDVzdFcHl4TGM3UTRjZmpaOFpZRnFMNmJnZTFMK0ZvQjVSc3BkamlqcVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0Njc1NDEwCWZpbGU6bGluZXMuYXBwLnRhci5negp1Tk5xOVdzV3NmeEp0ZmVMZW1KbG5CWUx4a1VSVkhJN2JsNEdYNVpPaDNSRVZ1SGRDN2UyRmJQY2dKRlFNZXFhN01WWVBka00vTkhtUHUzbGlNdTFDQT09Cg=="
     }
   }
 }
