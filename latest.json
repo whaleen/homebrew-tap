@@ -1,0 +1,10 @@
+{
+  "version": "0.2.0",
+  "pub_date": "2026-03-28T03:19:33Z",
+  "platforms": {
+    "darwin-universal": {
+      "url": "https://github.com/whaleen/lines/releases/download/v0.2.0/lines.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbmlXbGYvalpJRkJIMVJlWDRKdU5Bek9Ma1hkMzdNKzJrakd6cVYzRDNaWVQwS2ZmOXlFQUxYNDNqQ0UraHl2b2w5L2ZuMTdLM1VtYmJPZm9KT3gvbHFxLzVWSEs3VEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjY3OTcwCWZpbGU6bGluZXMuYXBwLnRhci5negpERjlKaWJSeXIwb2xSMWFEZFk4WEt2NmFCUHpta0Zib1VCdnlHT0E5ZTJ6RWVOc3QvdkxuUjY2bmxvM0FhaDJYamMvU1dCSWVnVGwvRnNGRlV2bnRCQT09Cg=="
+    }
+  }
+}
