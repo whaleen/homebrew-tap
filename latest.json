@@ -1,10 +1,14 @@
 {
-  "version": "0.2.1",
-  "pub_date": "2026-03-28T03:33:37Z",
+  "version": "0.2.2",
+  "pub_date": "2026-03-28T03:53:21Z",
   "platforms": {
-    "darwin-universal": {
-      "url": "https://github.com/whaleen/lines/releases/download/v0.2.1/lines.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbmlXbGYvalpJRkYxQnNYYmFFOHFvWGlDZHZJTWg5VmR3MDVKVy9KVmdHZWMwUHY2MUJtYWErV3lHaytrNE9UekpUNTU4MGRoaGtHVGtQTlBmVFdCOUlmbVhYcTB0WGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjY4ODE0CWZpbGU6bGluZXMuYXBwLnRhci5negplVWNkOUlubnpPR3pMY0FYakJYL3VuQVFGbjRqU1FtV0hiN3E0R1pMY2dTNHlDUFVZejQ0ay81ZmR4U1RpSm9sZ2ZiRWN5TE12WWs3QXcyT3psY3pDZz09Cg=="
+    "darwin-aarch64": {
+      "url": "https://github.com/whaleen/lines/releases/download/v0.2.2/lines.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbmlXbGYvalpJRkNaQllvcmpnbkJuZDE1enJqNFMwYVRBVFdYV3B1VG1UUFNCUFhXakxaOHpleXlsOWxhKzF2V2pqa21BV2NCbTdlY3lnbFhSTTVRU3pibktMcGZUSHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjY5OTk3CWZpbGU6bGluZXMuYXBwLnRhci5nego0eTNPTmFjZk1Kb1dtWFZtZHY2R2N0bW5YbkZKNlhuWVUwNzJLNGpDVkdhSEZsSTdjTWxJbFEyeFdIbkNQVkJ6T1RrenlxbUxDZEQzWmx4MUptRnBEZz09Cg=="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/whaleen/lines/releases/download/v0.2.2/lines.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbmlXbGYvalpJRkNaQllvcmpnbkJuZDE1enJqNFMwYVRBVFdYV3B1VG1UUFNCUFhXakxaOHpleXlsOWxhKzF2V2pqa21BV2NCbTdlY3lnbFhSTTVRU3pibktMcGZUSHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjY5OTk3CWZpbGU6bGluZXMuYXBwLnRhci5nego0eTNPTmFjZk1Kb1dtWFZtZHY2R2N0bW5YbkZKNlhuWVUwNzJLNGpDVkdhSEZsSTdjTWxJbFEyeFdIbkNQVkJ6T1RrenlxbUxDZEQzWmx4MUptRnBEZz09Cg=="
     }
   }
 }
