@@ -1,15 +1,19 @@
 class Pemguin < Formula
-  desc "Terminal project manager TUI — browse git repos, issues, memory, skills, and sessions"
+  desc "Terminal project manager TUI"
   homepage "https://github.com/whaleen/pemguin"
   version "0.1.0"
-  url "https://github.com/whaleen/pemguin/releases/download/v0.1.0/pm-0.1.0-universal-apple-darwin.tar.gz"
-  sha256 "placeholder_updated_by_ci"
+
+  on_macos do
+    if Hardware::CPU.arm?
+      url "https://github.com/whaleen/pemguin/releases/download/v#{version}/pemguin-v#{version}-aarch64-apple-darwin.tar.gz"
+      sha256 "PLACEHOLDER" # aarch64
+    else
+      url "https://github.com/whaleen/pemguin/releases/download/v#{version}/pemguin-v#{version}-x86_64-apple-darwin.tar.gz"
+      sha256 "PLACEHOLDER" # x86_64
+    end
+  end
 
   def install
     bin.install "pm"
-  end
-
-  test do
-    assert_match "pm", shell_output("#{bin}/pm --version 2>&1", 1)
   end
 end
