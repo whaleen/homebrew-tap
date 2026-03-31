@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1",
-  "pub_date": "2026-03-31T01:27:21Z",
+  "version": "0.1.2",
+  "pub_date": "2026-03-31T01:59:49Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/whaleen/tiles/releases/download/v0.1.1/tiles.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU3oweVE4aXF2Smgzdjh0VjlDb3o5eDVJMWwvZHYrS0ZXUmtHMGVGOFdwSm1JQzU1L1NhMzRQUTBEYWlDdnBDRlVqaTdYOU1HcWJYVXRuY3BGY24xYzBEZmRxcnJKeFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0OTIwNDM4CWZpbGU6dGlsZXMuYXBwLnRhci5negp5RkZpNkpzM0VmZ1EyZWxtSDFnYnNIRzlrRjRvTENHREVrem1xaVFucEpqRzQwNDVJRngvOXI0NEh2S1hpa1ZNN3A5cEFrRmFBUHFVYVJ5em1oVFVEZz09Cg=="
+      "url": "https://github.com/whaleen/tiles/releases/download/v0.1.2/tiles.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU3oweVE4aXF2SnBwdy8wUHp4dVQ0VkNLK0xlT3NweFBtZjlqMnI5Z3RibHRSVHdlOFJ3ZXNwWStKSVBhWGZZb2VPSGFMZVNBSHhObDF2aHllYXoxZkhYOHFZN24wY0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0OTIyMzg1CWZpbGU6dGlsZXMuYXBwLnRhci5negpmaUdKWkRHek11NU83U3A1dnlpektOOHZ5Q2JKVnZUMXArcHBMaWpZbU1EMGlaNkpUSUpKblhTcm05R1pnZlliaFRHajkxdlpLRktjOFBVemMzR1JCdz09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/whaleen/tiles/releases/download/v0.1.1/tiles.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU3oweVE4aXF2Smgzdjh0VjlDb3o5eDVJMWwvZHYrS0ZXUmtHMGVGOFdwSm1JQzU1L1NhMzRQUTBEYWlDdnBDRlVqaTdYOU1HcWJYVXRuY3BGY24xYzBEZmRxcnJKeFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0OTIwNDM4CWZpbGU6dGlsZXMuYXBwLnRhci5negp5RkZpNkpzM0VmZ1EyZWxtSDFnYnNIRzlrRjRvTENHREVrem1xaVFucEpqRzQwNDVJRngvOXI0NEh2S1hpa1ZNN3A5cEFrRmFBUHFVYVJ5em1oVFVEZz09Cg=="
+      "url": "https://github.com/whaleen/tiles/releases/download/v0.1.2/tiles.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU3oweVE4aXF2SnBwdy8wUHp4dVQ0VkNLK0xlT3NweFBtZjlqMnI5Z3RibHRSVHdlOFJ3ZXNwWStKSVBhWGZZb2VPSGFMZVNBSHhObDF2aHllYXoxZkhYOHFZN24wY0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0OTIyMzg1CWZpbGU6dGlsZXMuYXBwLnRhci5negpmaUdKWkRHek11NU83U3A1dnlpektOOHZ5Q2JKVnZUMXArcHBMaWpZbU1EMGlaNkpUSUpKblhTcm05R1pnZlliaFRHajkxdlpLRktjOFBVemMzR1JCdz09Cg=="
     }
   }
 }
