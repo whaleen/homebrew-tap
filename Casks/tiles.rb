@@ -1,6 +1,6 @@
 cask "tiles" do
-  version "0.1.3"
-  sha256 "33ae21dd3624beb3d1235d494874cafc9bdb7ff06ddd2187b583ad90ee6fb398"
+  version "0.1.4"
+  sha256 "fd2e911bb20c9685ac9a6e539ee9a8997c2137ba7b9a0195a8b9e5368b976f3f"
 
   url "https://github.com/whaleen/tiles/releases/download/v#{version}/tiles_#{version}_universal.dmg"
   name "tiles"
